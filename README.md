@@ -5,7 +5,19 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... -->
-- 🌱 I’m currently learning React
+Skill:
+- HTML / CSS (TailwindCSS / Material UI / Bootstrap)
+- Javascript
+- React - Redux
+- Nextjs
+- Nodejs / Express
+- Python
+- Socket.io
+- MongoDB
+- C / C++
+- Figma
+  
+- 🌱 I’m currently learning React-Native
 <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
