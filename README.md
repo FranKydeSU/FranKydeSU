@@ -5,7 +5,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... -->
-*Skill:*
+**Skill:**
 - HTML / CSS (TailwindCSS / Material UI / Bootstrap)
 - Javascript
 - React - Redux
@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 - C / C++
 - Figma
 - 🌱 I’m currently learning React-Native
-*Language:*
+
+**Language:**
 - Thai (Native)
 - English (TOEIC 590)
 - Japanese (JLPT N3 / JPT)
